@@ -6,3 +6,7 @@
 - ➡️ Finally, 3D printers are enabling research and development of new materials and technologies in the field of assistive and prosthetic devices. The ability to print with advanced materials such as metals and smart polymers means that healthcare professionals can create stronger, lighter, and more comfortable devices for their patients.
 
 In conclusion, 3D printers are having a significant impact on the development of assistive devices and prosthetics. Customization, efficiency, and ongoing research are improving the quality of life for people with disabilities and helping healthcare professionals offer innovative solutions for their patients.
+
+## Schematic Diagram
+
+![]{https://myoctocat.com/assets/images/base-octocat.svg}
