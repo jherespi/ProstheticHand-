@@ -9,4 +9,4 @@ In conclusion, 3D printers are having a significant impact on the development of
 
 ## Schematic Diagram
 
-![]{https://myoctocat.com/assets/images/base-octocat.svg}
+![](https://myoctocat.com/assets/images/base-octocat.svg)
