@@ -9,4 +9,4 @@ In conclusion, 3D printers are having a significant impact on the development of
 
 ## Schematic Diagram
 
-![](Images/schematic model.png)
+![](https://github.com/jherespi/ProstheticHand-/blob/1403f93555acc4a99241e1143fb89438eabba424/Images/schematic%20model.png)
