@@ -7,6 +7,7 @@
 
 In conclusion, 3D printers are having a significant impact on the development of assistive devices and prosthetics. Customization, efficiency, and ongoing research are improving the quality of life for people with disabilities and helping healthcare professionals offer innovative solutions for their patients.
 
+Get the Dataset: http://ieee-dataport.org/11092
 ## Schematic Diagram
 
 ![](https://github.com/jherespi/ProstheticHand-/blob/7228d1a3c8c5ed984ad44c8c23345e36a3ceef96/Images/schematic%20model.png)
