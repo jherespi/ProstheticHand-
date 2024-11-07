@@ -7,7 +7,8 @@
 
 In conclusion, 3D printers are having a significant impact on the development of assistive devices and prosthetics. Customization, efficiency, and ongoing research are improving the quality of life for people with disabilities and helping healthcare professionals offer innovative solutions for their patients.
 
-## ⭐⭐⭐⭐ Myoelectric Prosthesis Using Sensor Fusion Between Electromyography and Pulse Oximetry Signals
+## ⭐⭐⭐⭐ Myoelectric Prosthesis Using Sensor Fusion Between Electromyography and Pulse Oximetry 
+
 ### ⭐ When using this resource, please cite the original publication:
 - **Torres, K., Espinoza, J., Asanza, V., Lorente-Leyva, L.L., Peluffo-Ordóñez, D.H. (2023). Myoelectric prosthesis using sensor fusion between electromyography and pulse oximetry signals. Journal Européen des Systèmes Automatisés, Vol. 56, No. 4, pp. 641-649. https://doi.org/10.18280/jesa.560413**
 
